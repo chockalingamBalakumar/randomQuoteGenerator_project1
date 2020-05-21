@@ -1,2 +1,4 @@
-# randomQuoteGenerator_project1
-Random quote generator project
+# randomQuoteGenerator_project
+Created my first project
+
+Date : May 21st 2020
